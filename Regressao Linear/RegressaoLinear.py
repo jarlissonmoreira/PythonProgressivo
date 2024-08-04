@@ -1,7 +1,7 @@
 # Regressão Linear usando o Método dos mínimos quadrados
 # Curso Python Progressivo / Programação Científica com Python
 # @author: Jarlisson Moreira, jarlisson.moreira @ gmail com
-# tutorial: 
+# tutorial: https://www.pythonprogressivo.net/2024/08/Regressao-Linear-Metodo-Minimos-Quadrados-Python.html
 
 import numpy as np
 import matplotlib.pyplot as plt
