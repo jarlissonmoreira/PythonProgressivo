@@ -84,7 +84,7 @@ ax.errorbar(massa, L, yerr=dy, fmt='.k', label='dados experimentais')
 ax.legend(loc="lower right")
 plt.show()
 
-
+## Visualizando os dados, para controle e checagem
 print("Somatorio das massas: ", S_m)
 print("Somatorio quadrado das massas: ", S_m2)
 print("Somatorio comprimento: ", S_l)
