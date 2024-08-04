@@ -1,4 +1,4 @@
-# Regressão Linear usando o Método dos mínimos quadrados
+# Regressão Linear usando a função linregress() da biblioteca SciPy
 # Curso Python Progressivo / Programação Científica com Python
 # @author: Jarlisson Moreira, jarlisson.moreira @ gmail com
 # tutorial: https://www.pythonprogressivo.net/2024/08/Regressao-Linear-Metodo-Minimos-Quadrados-Python.html
@@ -10,7 +10,7 @@ from scipy import stats
 def func(x):
   return result.slope * x + result.intercept
 
-# Massas(g) e respectivas Distensões da mola (cm)
+# Massas(gramas) e respectivas Distensões da mola (centímetros)
 massa = np.array([10.7, 20.6, 30.8, 41.1, 50.9, 60.8, 71.2])
 delta_x = np.array([6.4, 8.0, 8.8, 10.0, 11.0, 12.8, 13.5])
 
