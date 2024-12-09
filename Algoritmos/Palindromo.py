@@ -8,6 +8,8 @@ Após o último dígito, temos que atualizar o número original, subtraindo o d�
 Na lista, vamos comparar o número primeiro com último, o segundo com o penúltimo, o terceiro com o antepenúltimo...
 Se N = len(digitos) for o número de dígitos, basta comparar o dígito de índice 0 com o (N-1), o de índice 1 com o (N-1-1),
 o de índice 2 com o de índice (N-1-2), até a metade da lista (que é achada com a divisão inteira N//2)
+
+Jarlisson Moreira, www.pythonprogressivo.net
 '''
 
 x = int(input("Insira um número inteiro positivo: "))
