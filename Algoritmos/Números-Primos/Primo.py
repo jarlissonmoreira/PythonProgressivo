@@ -1,5 +1,9 @@
-# O código abaixo verifica se um número maior que 2 é primo ou não
-# Jarlisson Moreira, www.pythonprogressivo.net
+'''
+- Crie um programa em Python que verifica se um número é primo ou não.
+
+O código abaixo verifica se um número maior que 2 é primo ou não
+Jarlisson Moreira, www.pythonprogressivo.net
+'''
 
 import math
 
