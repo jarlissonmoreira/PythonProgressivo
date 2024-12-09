@@ -4,9 +4,6 @@
 O código abaixo verifica se um número maior que 2 é primo ou não
 Jarlisson Moreira, www.pythonprogressivo.net
 '''
-
-import math
-
 x = int(input("Insira um número maior que 2: "))
 
 is_prime = True
